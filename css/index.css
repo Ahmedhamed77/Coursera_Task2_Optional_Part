@@ -21,6 +21,9 @@ h1{
 .navbar-brand{
     font-weight: bold;
 }
+.navbar-nav .nav-link {
+    border-bottom: 1px solid grey;
+}
 
 .jumbotron{
     background-color: white;
