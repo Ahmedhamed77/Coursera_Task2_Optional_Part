@@ -26,15 +26,11 @@ h1{
     background-color: white;
     margin-bottom: 0;
 }
-.p-2{
-    width: 92%;
-    margin-bottom: 50px;
+
+#main-section{
+    padding: 10px;
     line-height: 1.8;
     background-color: #999999;
     border: 1px solid black;
-}
-
-.p-2 p{
-    margin: 5px;
 }
 
